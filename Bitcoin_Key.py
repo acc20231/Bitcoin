@@ -1,7 +1,6 @@
 import bitcoin
 
-# Ещё один комментарий УРАААААААААААААААААааааа
-
+#Генерация случайного приватного ключа
 valid_private_key = False
 while not valid_private_key:
     private_key = bitcoin.random_key()
