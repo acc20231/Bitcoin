@@ -1,6 +1,6 @@
 import bitcoin
 
-# Ещё один комментарий УРААААААААААААААААА
+# Ещё один комментарий УРАААААААААААААААААааааа
 
 valid_private_key = False
 while not valid_private_key:
